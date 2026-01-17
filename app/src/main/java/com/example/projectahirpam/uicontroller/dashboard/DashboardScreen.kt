@@ -73,7 +73,7 @@ fun DashboardScreen(
                 
                 // Title di sebelah logo
                 Text(
-                    text = "Dashboard",
+                    text = "MiniCam",
                     style = MaterialTheme.typography.headlineMedium,
                     color = Color.White,
                     fontWeight = FontWeight.Bold
